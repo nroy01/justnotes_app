@@ -1,10 +1,12 @@
 ---
-JustNotes Support
+layout: default
+title: "Just Notes — Support"
+description: "FAQ and contact for Just Notes"
 ---
 
-# JustNotes — Support
+# Just Notes — Support
 
-**JustNotes** is a free, offline iPad app for handwriting, PDF import/annotation, and exporting.
+**Just Notes** is an offline iPad app for handwriting, PDF import/annotation, and exporting.
 
 ## FAQ
 **How are my notes stored?**  
@@ -23,3 +25,7 @@ Use **Import PDF**. Files are auto-saved to the **Imported Files** folder (you c
 - Email: [neel.g.roy.games@gmail.com](mailto:neel.g.roy.games@gmail.com)
 
 © 2025 Neel Roy
+
+---
+
+Want details on privacy? See the [Privacy Policy](/privacy/).
